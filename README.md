@@ -66,13 +66,6 @@ Das System besteht aus:
 
 ---
 
-## Projektstruktur
-/src -> Quellcode (Arduino)
-/cad -> 2D- und 3D-Konstruktionsdateien
-/docs -> Dokumentation (Lastenheft, Pflichtenheft, Sprintberichte)
-/images -> (optional) Bilder des Projekts
----
-
 ## Dokumentation
 Das Projekt umfasst:
 - Lastenheft  
